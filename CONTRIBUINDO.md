@@ -5,15 +5,15 @@
 
 #### Tenha um recurso que você deseja implementar?
 
-  Abra uma [questão](https://github.com/s4w3d0ff/python-poloniex/issues) descrevendo qual o recurso que deseja implementar, [pull requests](https://github.com/s4w3d0ff/python-poloniex/pulls) isso incentiva e acelera a implementação.   
+  Abra uma [questão](https://github.com/penhall/python-poloniex/issues) descrevendo qual o recurso que deseja implementar, [pull requests](https://github.com/penhall/python-poloniex/pulls) isso incentiva e acelera a implementação.   
 
 #### Encontrou um bug que precisa de correção?
 
-  Se você sabe como consertar-lo, encorajamos a fazer um [pull request](https://github.com/s4w3d0ff/python-poloniex/pulls), Caso contrário, abra uma questão e forneça detalhes sobre os eventos que levaram ao bug, incluindo um rastreamento do erro.  
+  Se você sabe como consertar-lo, encorajamos a fazer um [pull request](https://github.com/penhall/python-poloniex/pulls), Caso contrário, abra uma questão e forneça detalhes sobre os eventos que levaram ao bug, incluindo um rastreamento do erro.  
 
 #### Quer melhorar a documentação?
 
-  Dê uma olhada em [Wiki](https://github.com/s4w3d0ff/python-poloniex/wiki). Toda melhoria é bem vinda.
+  Dê uma olhada em [Wiki](https://github.com/penhall/python-poloniex/wiki). Toda melhoria é bem vinda.
 
 #### Quer apenas dar suporte?
 
