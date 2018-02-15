@@ -40,7 +40,7 @@ polo = poloniex.Poloniex('your-Api-Key-Here-xxxx','yourSecretKeyHere123456789')
 polo.key = 'your-Api-Key-Here-xxxx'
 polo.secret = 'yourSecretKeyHere123456789'
 ```
-# Pegar todos os seus balanços  Get all your balances
+# Pegar todos os seus balanços 
 ```python
 balance = polo.returnBalances()
 print("I have %s ETH!" % balance['ETH'])
